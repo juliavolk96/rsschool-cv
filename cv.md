@@ -1,4 +1,4 @@
-![Фото](../IMG_20230627_180827.jpg)
+![Фото](./IMG_20230627_180827.jpg)
 
 **First name and last name:** Julia Volkova;
 
