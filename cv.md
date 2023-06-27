@@ -27,8 +27,8 @@ I welcome feedback and enjoy learning and growing in different fields. I priorit
 
 **Contacts**
 
-1.*Telegram:* [@JuliaVolkova ](https://t.me/JuliaVolkova) 
-2.*E-mail:* juliavolk96@gmail.com  
+1.*Telegram:* [@JuliaVolkova ](https://t.me/JuliaVolkova)  
+2.*E-mail:* juliavolk96@gmail.com    
 3.*Discord:* .juliavolk  
 
 **Code example**
@@ -40,7 +40,9 @@ return arr.filter((item, index) => !(index % 2))
 ```
 
 **My projects**
+
 [cv](https://github.com/juliavolk96/rsschool-cv/blob/gh-pages/cv.md)
 
 **English**
-*English language:* Currently, my level is A2-B1, but I am actively working on improving my language skills at Skill House school and through self-study.
+
+*English language:* Currently, my level is A2-B1, but I am actively working on improving my language skills at Skill House school and through self-study.  
