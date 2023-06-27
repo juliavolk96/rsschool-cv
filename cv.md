@@ -45,7 +45,7 @@ return arr.filter((item, index) => !(index % 2))
 
 **English**
 
-*English language:* Currently, my level is A2-B1, but I am actively working on improving my language skills at Skill House school and through self-study.  
+Currently, my level is A2-B1, but I am actively working on improving my language skills at Skill House school and through self-study.  
 
 **Education:**
 
