@@ -1,6 +1,6 @@
 ![Фото](./IMG_20230627_180827.jpg)
 
-**First name and last name:** Julia Volkova;
+**First name and last name:** Julia Volkova
 
 I am a beginner **frontend developer**.
 
@@ -50,4 +50,8 @@ Currently, my level is A2-B1, but I am actively working on improving my language
 **Education:**
 
 *Higher Education:* Kutafin Moscow State Law University;  
-Courses: "Frontend development for Beginners" (Netology LLC)  
+
+*Courses:*
+
+1."Frontend development for Beginners" (Netology LLC)  
+2. JavaScript for Beginners (Stepik)  
