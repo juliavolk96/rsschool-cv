@@ -46,3 +46,8 @@ return arr.filter((item, index) => !(index % 2))
 **English**
 
 *English language:* Currently, my level is A2-B1, but I am actively working on improving my language skills at Skill House school and through self-study.  
+
+**Education:**
+
+*Higher Education:* Kutafin Moscow State Law University;  
+Courses: "Frontend development for Beginners" (Netology LLC)  
