@@ -53,5 +53,5 @@ Currently, my level is A2-B1, but I am actively working on improving my language
 
 *Courses:*
 
-1."Frontend development for Beginners" (Netology LLC)  
-2. JavaScript for Beginners (Stepik)  
+1."Frontend development for Beginners" (Netology LLC);  
+2.JavaScript for Beginners (Stepik)  
